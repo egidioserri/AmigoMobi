@@ -1,2 +1,2 @@
 # AmigoMobi
-Site para aplicativo "AmigoMobi" | Aplicativo de mobilidade urbana
+Site em HTML para aplicativo "AmigoMobi" | Aplicativo de mobilidade urbana
